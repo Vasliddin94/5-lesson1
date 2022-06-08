@@ -1,5 +1,9 @@
 
 
+body{
+  background-color:#seagreen
+}
+
 .frame{
   position: absolute;
   width: 400px;
@@ -7,7 +11,7 @@
   border-radius: 2px;
   box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.2);
   overflow: hidden;
-  background-color: aquamarine;
+  background-color: #seagreen;
   color: #fff;
 }
 
