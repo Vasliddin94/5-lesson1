@@ -13,11 +13,15 @@
 
 h1{
   position: relative;
-  color: darkorchid;
+  color: coral;
   z-index: 10;
   top: 20px;
   text-align: center;
   font-size: 55px;
+  border: 2px solid coral;
+  border-radius: 5px;
+  padding: 10px 0px;
+  font-weight: 800;
 }
 
 
@@ -54,8 +58,8 @@ h1{
 }
 
 .square{
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   background-color: darksalmon;
 }
 
